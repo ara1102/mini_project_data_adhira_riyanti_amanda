@@ -31,5 +31,6 @@ Mini project for Data Engineering Program At Alterra Academy. This project requi
 
 Data visualization using the matplotlib and seaborn libraries in Python
 
+## [Presentation Slides](https://www.canva.com/design/DAGFGrsc8CU/gvpBEBkoGkF35pw58PP42g/edit?utm_content=DAGFGrsc8CU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
